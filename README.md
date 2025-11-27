@@ -1,6 +1,6 @@
+![Noted Icon](app/noted.ico)
 # Noted
 A modern, minimalist text editor built with WPF for Windows. Clean interface, powerful features, and seamless auto-save functionality.
-![Noted Icon](app/noted.ico)
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pTrdZ3vN) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@asterxsk) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itslace100@gmail.com)
 ## 👤 Author
