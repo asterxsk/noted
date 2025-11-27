@@ -1,4 +1,4 @@
-![Noted Icon](app/noted.ico)
+![Noted Icon](icon/noted.ico)
 # Noted
 A modern, minimalist text editor built with WPF for Windows. Clean interface, powerful features, and seamless file management.
 ## 🌐 Socials
