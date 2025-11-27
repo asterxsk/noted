@@ -44,21 +44,6 @@ Feel free to reach out through any of the platforms above!
 | `Ctrl+Z` | Undo |
 | `Ctrl+Y` | Redo |
 | `Ctrl+Scroll` | Zoom In/Out |
-## 🛠️ Building from Source
-```bash
-# Clone the repository
-git clone <your-repo-url>
-# Navigate to project directory
-cd NotepadClone
-# Build the project
-dotnet build --configuration Release
-# Run the application
-dotnet run --configuration Release
-```
-## 📦 Creating the Installer
-1. Install [NSIS](https://nsis.sourceforge.io/Download)
-2. Right-click `Noted-Installer.nsi` and select "Compile NSIS Script"
-3. The installer `Noted-Setup.exe` will be created in the same directory
 ## 🔧 Technology Stack
 - **Framework**: .NET 9.0
 - **UI**: WPF (Windows Presentation Foundation)
